@@ -3,4 +3,4 @@ token:
   secret: user-token_native_customer-svc
 
 gateway:
-  ip: 172.30.1.86
+  ip: 192.168.1.10
