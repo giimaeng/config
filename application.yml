@@ -3,4 +3,4 @@ token:
   secret: user-token_application_changed_#1
 
 gateway:
-  ip: 192.168.1.118
+  ip: 192.168.1.110
